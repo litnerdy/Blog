@@ -33,7 +33,10 @@ Another goal I have for myself at this time is to learn markdown in github so th
 - [ ] This is not yet done.  Let's call this `clean your room before bed`
 - [x] This is done.  This was when I completed the task `drink a dirty chai with breakfast`
 
-######mentions
+Practicing Things
+=====
+Here I'm going to practice how I pop in a live view of another website. Not sure yet how to do this.
 
-I'd like to mention @robert-chiniquy and @diN0bot because they may find this amusing.
+[![](https://trello.com/b/Clb1VMP5.png)](https://trello.com/b/Clb1VMP5/platform-roadmap)
+
 
