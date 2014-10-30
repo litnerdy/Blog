@@ -22,7 +22,7 @@ an issue number.
 
 ## Submitting Changes
 
-* Sign the [Contributor License Agreement](need to figure out link here).
+* Sign the [Contributor License Agreement](https://www.clahub.com/agreements/bekkibolthouse/Blog).
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the (variable) repository in the Stellar organization.
 * Update your GitHub issue to mark that you have submitted code and are ready for it to be reviewed (Label: “pr”).
@@ -32,7 +32,7 @@ At this point you're waiting on us. We like to at least comment on pull requests
 # Additional Resources
 
 * [Bug tracker (Github)](variable)
-* [Contributor License Agreement](need to figure out link here)
+* [Contributor License Agreement](https://www.clahub.com/agreements/bekkibolthouse/Blog)
 * [API Documentation](variable)
 * [GitHub documentation](variable)
 * #stellar-dev IRC channel on freenode.org
