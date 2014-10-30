@@ -4,7 +4,6 @@
 * Create a GitHub issue for your contribution, assuming one does not already exist.
   * Clearly describe the issue including steps to reproduce when it is a bug.
 * Fork and then clone the repository on GitHub
-* bla bla blah blaaahhhhh
 
 ## Making Changes
 
